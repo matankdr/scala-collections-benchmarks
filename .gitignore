@@ -1,0 +1,18 @@
+# Project exclude paths
+/project/project/target/
+/project/target/
+/target/
+/target/scala-2.12/classes/
+
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.history
+.cache
+.lib/
+.idea/
+
+sbt.json
